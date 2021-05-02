@@ -10,10 +10,14 @@
 
 ![enter image description here](https://github.com/RuslanchikB/-Borsuk_Ruslan_LAB_TOTK_2021/blob/main/lab_3/photo/2.png)
 ![enter image description here](https://github.com/RuslanchikB/-Borsuk_Ruslan_LAB_TOTK_2021/blob/main/lab_3/photo/2_1.png)
+
+
 для вершини 5:
 
 ![enter image description here](https://github.com/RuslanchikB/-Borsuk_Ruslan_LAB_TOTK_2021/blob/main/lab_3/photo/3.png)
 ![enter image description here](https://github.com/RuslanchikB/-Borsuk_Ruslan_LAB_TOTK_2021/blob/main/lab_3/photo/3_1.png)
+
+
 **іі.** Топології дерев побудованих з різних кореневих вершин будуть різними. Це пояснюється тим, що алгоритм обходить не всі ребра графу, відповідно якщо у графі є вершини які мають більше трьох суміжних вершин, то тополігї дерев побудованих з різних кореневих вершин будуть різними.
 
 **ііі. Побудувано дерево за алгоритмом обходу в глибину (DFS);**
@@ -21,10 +25,14 @@
 
 ![enter image description here](https://github.com/RuslanchikB/-Borsuk_Ruslan_LAB_TOTK_2021/blob/main/lab_3/photo/4.png)
 ![enter image description here](https://github.com/RuslanchikB/-Borsuk_Ruslan_LAB_TOTK_2021/blob/main/lab_3/photo/4_1.png)
+
+
 з вершини 6:
 
 ![enter image description here](https://github.com/RuslanchikB/-Borsuk_Ruslan_LAB_TOTK_2021/blob/main/lab_3/photo/5.png)
 ![enter image description here](https://github.com/RuslanchikB/-Borsuk_Ruslan_LAB_TOTK_2021/blob/main/lab_3/photo/5_1.png)
+
+
 **iv.** Топології будуть різними. Це можна пояснити тим, що на кожному кроці алгоритм випадково  знаходить лише одну вершину( випадково вибираючи одну з тих, що до неї під'єднані).
 
 **2.** Побудувано випадковий орієнтований граф `G={6,10}`:
