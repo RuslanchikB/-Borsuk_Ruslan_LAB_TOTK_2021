@@ -47,7 +47,7 @@
 
 
 
-![image](hhttps://github.com/RuslanchikB/-Borsuk_Ruslan_LAB_TOTK_2021/blob/main/lab2/photo/Screenshot_2.png)
+![image](https://github.com/RuslanchikB/-Borsuk_Ruslan_LAB_TOTK_2021/blob/main/lab2/photo/Screenshot_1.png)
 
 
 2.  За допомогою лабораторного макету побудувати випадковий неорієнтований граф `G={7,15}` та записати його матрицю суміжності.
