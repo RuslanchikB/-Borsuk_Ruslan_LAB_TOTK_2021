@@ -7,18 +7,18 @@
 
 1. За допомогою лабораторного макету побудувати випадковий неорієнтований зважений граф з `V=6` та `E=10` 
 
-![image](https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_4/screen/1.png)
+![image](https://github.com/RuslanchikB/-Borsuk_Ruslan_LAB_TOTK_2021/blob/main/lab4/photo/Screenshot_1.png)
 
 
 Побудувати дерево шляхів з вершини `N` за алгоритмом Дейкстри
 
-![image](https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_4/screen/2.png)
+![image](https://github.com/RuslanchikB/-Borsuk_Ruslan_LAB_TOTK_2021/blob/main/lab4/photo/Screenshot_2.png)
 
-![image](https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_4/screen/2_1.png)
+![image](https://github.com/RuslanchikB/-Borsuk_Ruslan_LAB_TOTK_2021/blob/main/lab4/photo/Screenshot_3.png)
 
 2. Для того ж графа побудувати дерево шляхів з вершини `N` за алгоритмом Беллмана-Форда;
 
-![image](https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_4/screen/3.png)
+![image](https://github.com/RuslanchikB/-Borsuk_Ruslan_LAB_TOTK_2021/blob/main/lab4/photo/Screenshot_4.png)
 
 
 3. Вказати який з алгоритмів виконується швидше:
@@ -42,16 +42,16 @@
 5. Вважаючи, що коефіцієнти ребер вказують на пропускну здатність в Мбіт/с, знайти пропускну здатність кожного шляху визначеного за алгоритмом Дейкстри та Беллмана-Форда.
     1. Які шляхи мають максимальну пропускну здатність, чому?
 
-            0-(5)-1=5
-            0-(5)-1-(4)-2=4
-            0-(5)-1-(4)-2-(1)-3=1
-            0-(3)-5-(6)-4=3
+            0-(2)-1=2
+            0-(2)-1-(1)-2=1
+            0-(2)-1-(4)-3=2
+            0-(2)-1-(1)-2-(4)-4=1
             0-(3)-5=3
-            Максимальна пропускна здатність на шляху 0-1 яка складає 5 мб/с
+            Максимальна пропускна здатність на шляху 0-5 яка складає 3 мб/с
        
     2. Чи є шляхи які на якомусь відрізку мережі використовують менше половини пропускної здатності ребра?
             
-            Є, при переході 0-3
+            ні, не має.
        
     3. Чи можливе одночасне існування потоків із вершини `N` до всіх інших із розрахованою пропускною здатністю кожного шляху? Чому?
     
