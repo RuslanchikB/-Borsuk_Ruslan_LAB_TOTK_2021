@@ -6,10 +6,10 @@
 У роботі використовується онлайн ресурс для генерування графів [Graph Online](https://graphonline.ru/).
 1. За допомогою лабораторного макету побудувати випадковий неорієнтований зважений граф `G={8,10}`.
 
-![alt text]()
+![alt text](https://github.com/RuslanchikB/-Borsuk_Ruslan_LAB_TOTK_2021/blob/main/lab5/photo/Screenshot_1.png)
 
 
-![alt text]()
+![alt text](https://github.com/RuslanchikB/-Borsuk_Ruslan_LAB_TOTK_2021/blob/main/lab5/photo/Screenshot_2.png)
 2. Знайти шлях (вказати послідовність ребер) з максимальною пропускною здатністю (вказати якою) між вузлами `i` та `j` (`i` - вершина витоку (початкова); `j` - вершина стоку (кінцева)).
 
         0-7-4=10
